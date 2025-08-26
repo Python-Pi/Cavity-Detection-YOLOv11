@@ -1,0 +1,6 @@
+path: /Users/tousif/Desktop/IITK/Academics /Sem 7/UGP-I/Learning/Cavity Object Detection/cavity_data
+train: images/train
+val: images/val
+test: images/test 
+
+names: ['1', '2', '3']
