@@ -11,9 +11,9 @@ The models was trained on the cavity detection dataset and achieved the followin
 - **Recall**: 0.7532
 
 #### EPOCHS: 100
-- **mAP50**: 
-- **Precision**: 
-- **Recall**: 
+- **mAP50**: 0.7204
+- **Precision**: 0.7039
+- **Recall**: 0.6981
 
 The model which was mentioned in roboflow achieved the following results:
 
